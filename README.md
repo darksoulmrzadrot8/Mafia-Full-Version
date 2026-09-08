@@ -252,3 +252,6 @@ This repository serves as the official landing page for Mafia. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Mafia today!**
+
+---
+**Last updated:** 2026-09-08 19:41:59 UTC
